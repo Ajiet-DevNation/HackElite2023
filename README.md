@@ -17,3 +17,5 @@ Hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easil
 # HackElite
 
 HackElite is a repository created & maintained by DevNation, coding community at AJIET, this is open to all & everyone irrespective of your coding levels.
+
+<h1 align="center">Wanna contribute to our open source?? <br> just star the repo we'll update you soon!!! </h1>
