@@ -80,5 +80,3 @@ There are 4 Types of Tasks, those are as follows:
 - You can contribute for this either by uploading your own UI images along with appropriate code or by uploading solutions for the given tasks.
 
 **Type#4:**
-
-- Type#4 is a folder to upload various kinds of portfolio websites.
