@@ -1,4 +1,5 @@
-<h1 align="center">HackElite2023</h1>
+<h1 align="center" >HackElite2023</h1>
+
 <p align="center">
   <img src="https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/1100x640%20Hacktober%20fest%20header.png"> 
 </p>
@@ -84,3 +85,4 @@ There are 4 Types of Tasks, those are as follows:
 - Type#4 is a folder to upload various kinds of portfolio websites.
 - You can contribute by uploading your portfolio website screenshots along with code.
 
+**After you upload your solution create new Pull request and wait for reviewers to review your pull request before getting it merged**
