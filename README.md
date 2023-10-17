@@ -18,15 +18,6 @@
 </a>
   
 </div>
-## Contributors of `Hacktoberfest 2023`
-
-<div align="center">
-
-<a href="https://github.com/Ajiet-DevNation/HackElite2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ajiet-DevNation/HackElite2023" />
-</a>
-  
-</div>
 
 # What is Hacktoberfest?
 
@@ -40,22 +31,17 @@ HackElite is a repository created & maintained by DevNation, coding community at
 
 We welcome all contributions, suggestions & ideas for improvement from the community.
 You can contribute by posting in the Solutions folder in Problem Type of your choice.
-## How To Contribute
-
-We welcome all contributions, suggestions & ideas for improvement from the community.
-You can contribute by posting in the Solutions folder in Problem Type of your choice.
 ## first star the repository
 
 ### Pre-Requistes 
 
-GitHub Account - [click here to create account](https://code.visualstudio.com/download)
+- GitHub Account - [click here to create account](https://code.visualstudio.com/download)
 
-Visual Studio Code or any other code editor - [click here to download](https://code.visualstudio.com/download)
+- Visual Studio Code or any other code editor - [click here to download](https://code.visualstudio.com/download)
 
-Git version control - [click here to download](https://git-scm.com/)
-Git version control - [click here to download](https://git-scm.com/)
+- Git version control - [click here to download](https://git-scm.com/)
 
-your interest and time😁😎
+- your interest and time😁😎
 
 ### Flowchart to contribute to this repo
 
