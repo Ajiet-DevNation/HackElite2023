@@ -36,13 +36,11 @@ You can contribute by posting in the Solutions folder in Problem Type of your ch
 
 ### Pre-Requistes 
 
-- GitHub Account - [click here to create account](https://code.visualstudio.com/download)
+- GitHub Account - [click here to create account](https://github.com)
 
 - Visual Studio Code or any other code editor - [click here to download](https://code.visualstudio.com/download)
 
 - Git version control - [click here to download](https://git-scm.com/)
-
-- your interest and time😁😎
 
 ### Flowchart to contribute to this repo
 
