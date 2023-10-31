@@ -1,4 +1,5 @@
-<h1 align="center">HackElite2023</h1>
+<h1 align="center" >HackElite2023</h1>
+
 <p align="center">
   <img src="https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/1100x640%20Hacktober%20fest%20header.png"> 
 </p>
@@ -9,15 +10,6 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Ajiet-DevNation/HackElite2023">
 </p>
 
-## Contributors of `Hacktoberfest 2023`
-
-<div align="center">
-
-<a href="https://github.com/Ajiet-DevNation/HackElite2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ajiet-DevNation/HackElite2023" />
-</a>
-  
-</div>
 ## Contributors of `Hacktoberfest 2023`
 
 <div align="center">
@@ -40,22 +32,15 @@ HackElite is a repository created & maintained by DevNation, coding community at
 
 We welcome all contributions, suggestions & ideas for improvement from the community.
 You can contribute by posting in the Solutions folder in Problem Type of your choice.
-## How To Contribute
-
-We welcome all contributions, suggestions & ideas for improvement from the community.
-You can contribute by posting in the Solutions folder in Problem Type of your choice.
 ## first star the repository
 
 ### Pre-Requistes 
 
-GitHub Account - [click here to create account](https://code.visualstudio.com/download)
+- GitHub Account - [click here to create account](https://github.com)
 
-Visual Studio Code or any other code editor - [click here to download](https://code.visualstudio.com/download)
+- Visual Studio Code or any other code editor - [click here to download](https://code.visualstudio.com/download)
 
-Git version control - [click here to download](https://git-scm.com/)
-Git version control - [click here to download](https://git-scm.com/)
-
-your interest and time😁😎
+- Git version control - [click here to download](https://git-scm.com/)
 
 ### Flowchart to contribute to this repo
 
@@ -98,3 +83,4 @@ There are 4 Types of Tasks, those are as follows:
 - Type#4 is a folder to upload various kinds of portfolio websites.
 - You can contribute by uploading your portfolio website screenshots along with code.
 
+**After you upload your solution create new Pull request and wait for reviewers to review your pull request before getting it merged**
