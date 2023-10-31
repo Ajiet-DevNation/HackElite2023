@@ -59,7 +59,7 @@ _Note:_
 _When Uploading & Submitting Pull Requests you need to submit it within a folder & the folder name must be your GitHub Username_
 
 
-#### fork the repository ([click here](https://github.com/Ajiet-DevNation/HackElite2023/fork))
+#### fork the repository [click here](https://github.com/Ajiet-DevNation/HackElite2023/fork)
 
 There are 4 Types of Tasks, those are as follows:
 
