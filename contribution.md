@@ -17,7 +17,6 @@
 ![createfork photo](https://github.com/Ajiet-DevNation/HackElite2023/assets/109619279/c8b84d9d-4095-4c96-a24e-11c971106745)
 
 - How to raise a issue
-
 ![issue photo](https://github.com/Ajiet-DevNation/HackElite2023/assets/111761548/e9291565-47ff-44cc-b9dd-742b8fe768de)
 
 ![New issue photo](https://github.com/Ajiet-DevNation/HackElite2023/assets/111761548/cc7921c9-a078-404c-846a-4fc2b07dd9f0)
