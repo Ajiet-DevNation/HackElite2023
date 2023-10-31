@@ -26,3 +26,12 @@
 - Click on submit issue
 
 - Wait for assign
+
+## How to add a file
+
+-Choose your type of file
+-Go to add file 
+- Upload file or create a new file
+- Click on commit change 
+
+
