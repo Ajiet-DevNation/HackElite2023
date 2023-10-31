@@ -32,7 +32,7 @@ HackElite is a repository created & maintained by DevNation, coding community at
 
 We welcome all contributions, suggestions & ideas for improvement from the community.
 You can contribute by posting in the Solutions folder in Problem Type of your choice.
-## first star the repository
+## First star the repository
 
 ### Pre-Requistes 
 
@@ -59,7 +59,7 @@ _Note:_
 _When Uploading & Submitting Pull Requests you need to submit it within a folder & the folder name must be your GitHub Username_
 
 
-#### fork the repository [click here](https://github.com/Ajiet-DevNation/HackElite2023/fork)
+#### Fork the repository [click here](https://github.com/Ajiet-DevNation/HackElite2023/fork)
 
 There are 4 Types of Tasks, those are as follows:
 
